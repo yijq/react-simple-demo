@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgba(224, 193, 90, 0.384);
+    padding: 1rem;
+
+}
+
+.navBox {
+    padding: .5rem;
+    width: 100%;
+    font-size: .8rem;
+}
+
+.nav {
+    text-decoration: none;
+    float: left;
+    background-color: rgba(9, 57, 97, 0.849);
+    color: #fff;
+    border-radius: .2rem;
+    padding: .2rem;
+    margin-left: .2rem;
+}
